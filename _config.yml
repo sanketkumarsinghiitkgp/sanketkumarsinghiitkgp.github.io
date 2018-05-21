@@ -1,0 +1,10 @@
+# basic options
+title: Sanket's blog
+author: Sanket Kumar Singh
+email: sanketsingh2mail@gmail.com
+description: My blog
+github_username:  sanketkumarsinghiitkgp
+
+# Build settings
+markdown: kramdown
+theme: minima
