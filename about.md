@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Sanket Kumar Singh. I am pursuing dual degree(B.Tech+M.Tech) in Electrical Engineering from IIT Kharagpur. 
+My interests are Machine Learning, Computer Vision and Robot Motion Planning. I am also an open source enthusiast.
+*C/C++, Python and Java* are the languages that I am comfortable with.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
