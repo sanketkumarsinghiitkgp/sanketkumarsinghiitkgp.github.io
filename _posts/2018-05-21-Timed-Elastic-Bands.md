@@ -44,6 +44,31 @@ Two trajectories are said to be homotopic if one can be deformed to form another
 ### H-signature
 H-signature is a function of trajectory. For a given starting point and ending point of a trajectory, when the H-signature is evaluated, it turns out that every trajectory in a homology class yields the same value. So, the H-signature can be used to uniquely identify a homology class.
 
-##Discovery of Homology Classes
+## Discovery of Homology Classes
 
-T
+A set of Vertices ***V*** is formed. First of all the goal and starting points are added to this set.
+
+### For circular obstacles of limited radius
+
+Two waypoints per obstacle is added to ***V***. These point are such that the line passing through them passes through the centre of the obstace, is perpendicular to the line joining the goal and the position of bot, and the distance between them is slightly greater than the diameter of the obstacle.
+
+### For non circular obstacles
+
+Random points are sampled from a region between the bot position and the goal. Generally this region is taken to be the circle which has the goal and the bot position as diametrically opposite points.
+
+Now, we connect the vertices with edges.
+
+Two vertices are connected only if the direction of connection is forward oriented, that is it has a positive dot product with the the vector from bot position to the goal.
+
+Moreover, the edge should not intersect any obstacle.
+
+
+The goal in case of a local planner is a temporary one, as decided by the global planner.
+
+Now a depth first search augmented by a visited list is performed for the graph.
+
+For each path the H-signature is calculated. If no previously added candidate path has the same H-signature, then the H-signature is added to set of known signatures, and the path is added to the set of candidate paths. If the H-signature is already known then the path is ignored.	
+
+## Final trajectory
+
+Each trajectory which represents a homology class is then optimized using elastic bands. At each instant the shortest of these candidate trajectories is chosen.
