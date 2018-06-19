@@ -3,8 +3,8 @@ layout: post
 title: Arrow Functions (and how it's different from 'normal functions')
 ---
 
-At the first glance, arrow functions look like a less verbose version of the normal Javascript function.
-But there are some situations where they behave quite differently. For example, consider the following code:-
+At the first glance, arrow functions look like a more concise version of the normal Javascript functions.
+But there are some situations where they behave quite differently. For example, consider the following:-
 
 ```
 let obj={
@@ -59,7 +59,7 @@ true
 false
 1
 ```
-So, the `this` inside a non-arrow function refers to the `obj` object.
+***So, the `this` inside a non-arrow function refers to the `obj` object.***
 
 ```
 let obj={
@@ -81,4 +81,4 @@ true
 undefined
 ```
 
-Which shows that the `this` inside an arrow function refers to the originating context, which happens to be the `window` object in the above example. This also explains why `this.x` is `undefined`. It is because the originating context, the `window` has no variable called `x`.
+***Which shows that the `this` inside an arrow function refers to the originating context(the context where the function was called)***, which happens to be the `window` object in the above example. This also explains why `this.x` is `undefined`. It is because the originating context, the `window` has no variable called `x`.
