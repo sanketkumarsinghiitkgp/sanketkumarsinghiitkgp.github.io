@@ -6,7 +6,7 @@ title: Arrow Functions (and how it's different from 'normal functions')
 At the first glance, arrow functions look like a more concise version of the normal Javascript functions.
 But there are some situations where they behave quite differently. For example, consider the following:-
 
-```
+```js
 let obj={
 	x: 1,
 	prnt: function(){ return this.x;}
@@ -24,7 +24,7 @@ This behaviour is pretty intuitive.
 
 But when we change the `prnt` function to an arrow function, this is what we get:-
 
-```
+```js
 let obj={
 	x: 1,
 	prnt: ()=>{ return this.x;}
@@ -39,7 +39,7 @@ undefined
 ```
 Adding a couple of additional lines to the program brings sheds some light on the reason behind this 'discrepancy'.
 
-```
+```js
 let obj={
 	x: 1,
 	prnt: function(){ 
@@ -61,7 +61,7 @@ false
 ```
 ***So, the `this` inside a non-arrow function refers to the `obj` object.***
 
-```
+```js
 let obj={
 	x: 1,
 	prnt: ()=>{ 
