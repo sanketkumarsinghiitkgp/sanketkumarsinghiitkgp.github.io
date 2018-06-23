@@ -28,3 +28,7 @@ This can be solved by modifying Rabin Karp.
 The rolling hash used for Rabin Karp at each step removes a character and adds a character and thus 'rolls' along the string with a constant length. Let us omit the part involving removing of characters. When we do this, the window for hash function keeps increasing in length as it continues to take in new characters each time.
 I intend to use this hash for checking if the centre in PDEAC algorithm is the centre of a palindrome. We check it by using two rolling hashes which roll in two opposite directions along the string.
 The advantage of using a rolling hash as opposed to a naive character-wise comparision(as used in native PDEAC), is that once a pallindrome of length **M** is found, for all the subsequent centers in the string, we would have the starting length of the hashing start from **M**, as opposed to starting to check for pallindromes of length 2 each time as we did in case of PDEAC.
+
+## Time Complexity
+
+Will be covered in the next post.
