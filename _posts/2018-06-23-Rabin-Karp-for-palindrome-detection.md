@@ -7,29 +7,6 @@ Rabin Karp is a popular string-search algorithm which uses a rolling hash to sea
 
 Let t:="abcdfasjas", s:="fas", t.length=m, s.length=n for all further discussion.
 
-/**I will first describe Rabin Karp.
-
-## Rabin Karp
-
-### Hash Function
-
-A hash function returns a number for every string. It must be:
-1. **Deterministic** - The hash function should generate the same number every time for the same input string.
-2. **Uniform** - The number of 'collisions' must be minimal. A collision refers to the situation where two different strings are mapped to the same number by the hash function.
-
-We generally use a polynomial hash.
-
-```cpp
-
-int hash(string s){
-	int h=0,a=41; // a can be any prime no., 41 works well in avoiding collisions 
-	for(int i=0;i< s.length();i++){
-		h+=s[i]*pow(a,i);
-	}
-	return h;
-}
-```
-**/
 ## Key Insights from the Rabin Karp algorithm
 
 The degree of the hashing polynomial is fixed(and equal to n)
