@@ -8,7 +8,7 @@ An eventful first year at IIT Kharagpur had come to an end on 28-04-2018. I was 
 ## May
 
 I spent most of this month in college. At AGV I was mostly involved with computer vision and path planning related tasks. The details of my work at AGV can be found [here](https://docs.google.com/document/d/157v_o3XNV1KcUrWUtoz1iK3eEdYfzYJh3VU6ggDDJ4k/edit?usp=sharing).
-I
+
 Apart from this, I completed the Machine Learning course by Andrew NG, Intro to Machine Learning by udacity(almost), Intro to Computer Vision(till module 4), and started the Deep Learning specialization on coursera by Andrew NG. I also started some competitive programming, just to get my feet wet. It was around this time that I wrote my [first post](https://sanketkumarsinghiitkgp.github.io/2018/05/21/Timed-Elastic-Bands.html) for this blog( on timed elastic bands)  . I had come back home on 25th May. I was extremely tired after a gruelling month in the sweltering summer of Kharagpur. I slept through the rest of the month.
 
 ## June
