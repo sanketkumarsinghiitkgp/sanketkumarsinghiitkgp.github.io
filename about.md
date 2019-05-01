@@ -4,52 +4,28 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+Hi, I'm Sanket Kumar Singh.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+I am interested in Software Engineering, Algorithms, Computer Vision, Machine Learning, Music and Philosophy.
 
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+I also love playing musical instruments .
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+I am currently in the 3rd year of Electrical Engineering Dual Degree( B.Tech and M.Tech) course at Indian Institute of Technology (IIT) Kharagpur.  
+ I am also pursuing a minor in Computer Science and Engineering.
 
 ## Roles
 
-Founder, ABC Organisation
+Core Team Member: KOSS (2018-2019)  
+Software Team Member: Autonomous Ground Vehicle Research Group (2018-2019)
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
-    
-    
-## Achievements
-
-
-* [**This is my first achievement**](#) 
-   
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
+- **Front End** - `HTML` / `CSS` / `Javascript` / `React`
+- **Back End** - `python` / `Node`
+- **Miscellaneous** - `C++` / `Pytorch` / `Shell Scripting` / `OpenCV` / `Linux`
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[sanketsingh2mail@gmail.com](mailto:sanketsingh2mail@gmail.com)
