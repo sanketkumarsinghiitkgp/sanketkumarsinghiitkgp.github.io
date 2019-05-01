@@ -1,15 +1,16 @@
 ---
-layout: blog
+layout: default
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css" />
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-<article class="post">
- <div class="space-extra-small">
- </div>
+  <header class="animated slideInDown fadeOutUp post-header">
+    <h1 class="animated slideInDown fadeOutUp post-title" itemprop="name headline">{{ page.title }}</h1>
+    <p class="animated slideInDown fadeOutUp post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  </header>
 
-  <div class="entry">
+  <div class="animated slideInLeft fadeOutLeft post-content" itemprop="articleBody">
     {{ content }}
   </div>
 
-  {% include disqus.html %}
-</article>
-
+</article>0

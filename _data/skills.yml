@@ -1,0 +1,40 @@
+-   id: Algorithms
+    descr: Algorithms
+    xp: 9
+-   id: c++
+    descr: c++    
+    xp: 9
+-   id: python
+    descr: python    
+    xp: 9
+-   id: OpenCV
+    descr: OpenCV
+    xp: 9
+-   id: javascript
+    descr: javascript   
+    xp: 7
+-   id: css
+    descr: css
+    color: teal
+    xp: 7
+-   id: reactjs
+    descr: reactjs    
+    xp: 7
+-   id: java
+    descr: java    
+    xp: 5
+-   id: react
+    descr: react    
+    xp: 7
+-   id: node.js
+    descr: node.js 
+    xp: 7
+-   id: Shell
+    descr: Shell
+    xp: 6
+-   id: Pytorch
+    descr: Pytorch
+    xp: 5
+
+
+
