@@ -4,7 +4,52 @@ title: About
 permalink: /about/
 ---
 
-I'm Sanket Kumar Singh. I am pursuing dual degree(B.Tech+M.Tech) in Electrical Engineering from IIT Kharagpur. 
-My interests are Machine Learning, Computer Vision and Robot Motion Planning. I am also an open source enthusiast.
-*C/C++, Python, Java and Javascript* are the languages that I am comfortable with.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+
+Sed faucibus felis purus, sed convallis leo dictum vehicula.
+
+## Education
+
+* ABC degree from XYZ University.
+* ABC degree from XYZ University.
+* ABC degree from XYZ University.
+
+## Roles
+
+Founder, ABC Organisation
+
+## Skills
+
+* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
+* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
+* **Skill 3** - `Skill` / `Skill` / `Skill`
+* **Skill 4** - `Skill` / `Skill` / `Skill` 
+* **Skill 5** - `Skill`
+* **Skill 6** - `Skill` / `Skill` 
+    
+    
+## Achievements
+
+
+* [**This is my first achievement**](#) 
+   
+   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+
+***
+
+* [**This is my second achievement**](#) 
+
+    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+
+***
+
+* [**This is my third achievement**](#) 
+
+   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
+
+
+## Contact me
+
+[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
